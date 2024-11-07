@@ -1,0 +1,13 @@
+{
+  "name": "sinon_fastify_repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mike Qin <1mike12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^5.1.0",
+    "mocha": "^10.8.2",
+    "node": "^22.11.0",
+    "sinon": "^19.0.2"
+  }
+}
